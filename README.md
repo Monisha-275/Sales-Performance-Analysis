@@ -76,3 +76,7 @@ Monisha S.
 
 ## Project Type
 Data Analytics Portfolio Project
+
+## Dashboard Preview
+
+![Sales Dashboard](Screenshots/Sales_Dashboard_Overview.png)
